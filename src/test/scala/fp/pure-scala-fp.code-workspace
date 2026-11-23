@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"path": "../../../../../pure-scala-fp"
+		},
+		{
+			"path": "../../../.."
+		}
+	],
+	"settings": {
+		"files.watcherExclude": {
+			"**/target/**": true
+		}
+	}
+}
